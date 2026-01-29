@@ -1,0 +1,2 @@
+User → IAM → EC2 (Assumes Role) → S3 (Read-only)
+
