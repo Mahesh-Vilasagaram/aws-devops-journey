@@ -1,0 +1,12 @@
+Internet
+   |
+Internet Gateway
+   |
+Public Subnet (10.0.1.0/24)
+   |
+NAT Gateway
+   |
+Private Subnet (10.0.2.0/24)
+   |
+Private EC2
+
